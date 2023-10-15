@@ -131,7 +131,8 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow 
 ![Screenshot](MaterrialSkin-reskin.png)
 >
 ![Screenshot](scr01.png)
-
+>
+![Screenshot](scr02.png)
 >
 --------------
 >
