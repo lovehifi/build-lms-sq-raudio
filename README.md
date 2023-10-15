@@ -1,3 +1,7 @@
+How to create a perfect and feature-rich Music Server-Player with a user-friendly, easy-to-use, and visually appealing interface, coupled with outstanding sound quality on your Raspberry Pi?
+Choose rAudio on the Arch Linux platform to turn this into a reality.
+
+
 # Build LMS-rAudio for Pi 2 and Pi 3
 
 This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow the steps below to set up LMS-rAudio.
