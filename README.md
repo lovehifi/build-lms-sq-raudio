@@ -64,7 +64,6 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow 
    ```bash
    wget -O - https://raw.githubusercontent.com/lovehifi/addraudio/main/configgui | sh
    
-   [Config GUI screenshot](https://raw.githubusercontent.com/lovehifi/build-lms-sq-raudio/main/scr003.jpeg)
 
 
 --------------------
