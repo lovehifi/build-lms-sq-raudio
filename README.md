@@ -9,7 +9,7 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow 
 ## Instructions
 
 1. **Flash rAudio IMG:**
-   Flash the rAudio IMG to your memory card.
+   Flash the rAudio IMG to your memory card: rAudio-RPi2-####img.xz (for Pi 2, Pi 3), rAudio-64bit-####.img.xz for Pi 4.
 >
 > https://github.com/rern/rAudio
 >
