@@ -1,14 +1,6 @@
 How to create a perfect and feature-rich Music Server-Player with a user-friendly, easy-to-use, and visually appealing interface, coupled with outstanding sound quality on your Raspberry Pi?
 Choose rAudio on the Arch Linux platform to turn this into a reality. (Pi 2, Pi 3, and Pi 4).
 
-#### Here are the steps to connect to your Pi using SSH (with rAudio) via Putty
-- Open Putty on your computer.
-- In the "Host Name (or IP address)" field, enter the IP address of your Raspberry Pi or the hostname "raudio.local".
-- For the username, enter: root
-- For the password, enter: ros
-- Press Enter after providing the login credentials.
-- You should now be connected to your Raspberry Pi via SSH using rAudio as the root user.
-- Copy each of the following commands and paste them into Putty SSH, then press Enter.
 
 # Build LMS-rAudio for Pi 2 and Pi 3
 
@@ -23,6 +15,16 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow 
 >
 > https://github.com/rern/rAudio/releases
 >
+-------------------
+#### Here are the steps to connect to your Pi using SSH (with rAudio) via Putty
+- Open Putty on your computer.
+- In the "Host Name (or IP address)" field, enter the IP address of your Raspberry Pi or the hostname "raudio.local".
+- For the username, enter: root
+- For the password, enter: ros
+- Press Enter after providing the login credentials.
+- You should now be connected to your Raspberry Pi via SSH using rAudio as the root user.
+- Copy each of the following commands and paste them into Putty SSH, then press Enter.
+-------------
 2. **Install script LMS and Squeezelite (32bit):**
    ```bash
    wget -O - https://raw.githubusercontent.com/lovehifi/raudiolms-32bit/main/install-archlinux.sh | sh
