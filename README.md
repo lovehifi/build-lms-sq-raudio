@@ -116,7 +116,7 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow 
    ```bash
    wget -O- https://raw.githubusercontent.com/lovehifi/picoreaddon/main/mskin | sudo sh
 
-8. **12-band Parametric EQ Eqfa12 LMS:**
+8. **12-band [Parametric EQ Eqfa12](https://github.com/lovehifi/eqfa12) LMS:**
    ```bash
    wget -O - https://raw.githubusercontent.com/lovehifi/addraudio/main/eqfa12lms | sh
 
