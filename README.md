@@ -89,6 +89,7 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 4. Follow the steps
 - Press Enter after providing the login credentials.
 - You should now be connected to your Raspberry Pi via SSH using rAudio as the root user.
 - Copy each of the following commands and paste them into Putty SSH, then press Enter.
+[Putty screenshot](https://raw.githubusercontent.com/lovehifi/build-lms-sq-raudio/main/putty_config.png)
 -------------
 2. **Install script LMS and Squeezelite (64bit):**
    ```bash
@@ -125,7 +126,9 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 4. Follow the steps
    ```bash
    wget -O - https://raw.githubusercontent.com/lovehifi/addraudio/main/configgui | sh
 
-
+>
+- [Config GUI screenshot](https://raw.githubusercontent.com/lovehifi/build-lms-sq-raudio/main/scr003.jpeg) 
+>
 ------------------
 >
 ![Screenshot](LMS-skin-6.jpg)
