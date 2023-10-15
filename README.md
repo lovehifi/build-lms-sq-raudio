@@ -2,11 +2,11 @@
 Choose rAudio on the Arch Linux platform and LMS (Material Skin) to turn this into a reality. (Pi 2, Pi 3, and Pi 4).
 
 
-# Build LMS-rAudio for Pi 2 and Pi 3
-
+# Build LMS-rAudio for Pi 2, Pi 3 and Pi 4 (64 bit)
+ 
 This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow the steps below to set up LMS-rAudio.
 
-## Instructions
+## Instructions Pi 2, Pi 3
 
 1. **Flash rAudio IMG:**
    Flash the rAudio IMG to your memory card
@@ -68,11 +68,10 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow 
 - [Config GUI screenshot](https://raw.githubusercontent.com/lovehifi/build-lms-sq-raudio/main/scr003.jpeg) 
 >
 --------------------
-# Build LMS-rAudio (64 bit) for Pi 4
 
-This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow the steps below to set up LMS-rAudio.
+This guide explains how to build LMS-rAudio for Raspberry Pi 4. Follow the steps below to set up LMS-rAudio.
 
-## Instructions
+## Instructions Pi 4
 
 1. **Flash rAudio IMG:**
    Flash the rAudio IMG to your memory card.
