@@ -74,6 +74,16 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow 
 >
 > https://github.com/rern/rAudio/releases
 >
+-------------------
+#### Here are the steps to connect to your Pi using SSH (with rAudio) via Putty
+- Open Putty on your computer.
+- In the "Host Name (or IP address)" field, enter the IP address of your Raspberry Pi or the hostname "raudio.local".
+- For the username, enter: root
+- For the password, enter: ros
+- Press Enter after providing the login credentials.
+- You should now be connected to your Raspberry Pi via SSH using rAudio as the root user.
+- Copy each of the following commands and paste them into Putty SSH, then press Enter.
+-------------
 2. **Install script LMS and Squeezelite (64bit):**
    ```bash
    wget -O - https://raw.githubusercontent.com/lovehifi/raudiolms-32bit/main/install-archlinux.sh | sh
