@@ -26,7 +26,7 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow 
 - For the username, enter: root
 - For the password, enter: ros
 - Press Enter after providing the login credentials.
-- You should now be connected to your Raspberry Pi via SSH using rAudio as the root user.
+- You should now be connected to your Raspberry Pi via SSH (port 22) using rAudio as the root user.
 - Copy each of the following commands and paste them into Putty SSH, then press Enter.
 -------------
 2. **Install script LMS and Squeezelite (32bit):**
