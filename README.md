@@ -4,7 +4,7 @@ Choose rAudio on the Arch Linux platform and LMS (Material Skin) to turn this in
 
 # Build LMS-rAudio for Pi 2, Pi 3 and Pi 4 (64 bit)
  
-This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow the steps below to set up LMS-rAudio.
+This guide explains how to build LMS-rAudio for Raspberry Pi 2, Pi 3 and Pi 4. Follow the steps below to set up LMS-rAudio.
 
 ## Instructions Pi 2, Pi 3
 
@@ -69,7 +69,6 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2 and Pi 3. Follow 
 >
 --------------------
 
-This guide explains how to build LMS-rAudio for Raspberry Pi 4. Follow the steps below to set up LMS-rAudio.
 
 ## Instructions Pi 4
 
