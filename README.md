@@ -6,7 +6,7 @@ Choose rAudio on the Arch Linux platform, LMS and plugin Material Skin to turn t
  
 This guide explains how to build LMS-rAudio for Raspberry Pi 2, Pi 3 and Pi 4. Follow the steps below to set up LMS-rAudio.
 
-## Instructions Pi 2, Pi 3
+## Instructions build for Pi 2, Pi 3
 
 1. **Flash rAudio IMG:**
    Flash the rAudio IMG to your memory card
@@ -70,7 +70,7 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2, Pi 3 and Pi 4. F
 --------------------
 
 
-## Instructions Pi 4
+## Instructions build for Pi 4
 
 1. **Flash rAudio IMG:**
    Flash the rAudio IMG to your memory card.
