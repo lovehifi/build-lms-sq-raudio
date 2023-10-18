@@ -166,7 +166,6 @@ Here are the plugins that I have activated:
 - Qobuz
 - YouTube
 ---------------------
----------------------
 
 ## Tips:
 >
