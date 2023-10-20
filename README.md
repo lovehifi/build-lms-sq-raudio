@@ -146,15 +146,15 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2, Pi 3 and Pi 4. F
 >
 ![Screenshot](MaterrialSkin-reskin.png)
 >
-See the sample LMS  Material Skin - Mod CSS at this link: http://harmona.dyndns-ip.com:9000
->
+
 ![Screenshot](MaterrialSkin-reskin.png)
 >
 ![Screenshot](scr01.png)
 >
 ![Screenshot](scr02.png)
 >
-
+See the sample LMS  Material Skin - Mod CSS at this link: http://harmona.dyndns-ip.com:9000
+>
 -----------------
 ## Plugin LMS
 Some plugins in the LMS are not too necessary; you can deactivate them to make your system run smoother. Additionally, there are plugins that can conversion of your audio files, such as SqueezeDSP. I advise you not to activate it unless necessary.
