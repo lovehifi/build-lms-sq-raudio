@@ -157,6 +157,8 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2, Pi 3 and Pi 4. F
 >
 ![Screenshot](scr02.png)
 >
+![Screenshot](scr07.png)
+>
 See the sample LMS  Material Skin - Mod CSS at this link: http://harmona.dyndns-ip.com:9000
 >
 -----------------
