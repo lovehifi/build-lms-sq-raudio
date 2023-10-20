@@ -92,7 +92,7 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2, Pi 3 and Pi 4. F
 -------------
 2. **Install script LMS and Squeezelite (64bit):**
    ```bash
-   wget -O - https://raw.githubusercontent.com/lovehifi/raudiolms-32bit/main/install-archlinux.sh | sh
+   wget -O - https://raw.githubusercontent.com/lovehifi/raudiolms-64bit/main/install-archlinux.sh | sh
 
 3. **Update script LMS and Squeezelite (64bit):**
    ```bash
