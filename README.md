@@ -125,14 +125,12 @@ This guide explains how to build LMS-rAudio for Raspberry Pi 2, Pi 3 and Pi 4. F
    ```bash
    wget -O - https://raw.githubusercontent.com/lovehifi/addraudio/main/configgui | sh
 >
-[Config GUI screenshot](https://raw.githubusercontent.com/lovehifi/build-lms-sq-raudio/main/scr003.jpeg) 
+- [Config GUI screenshot](https://raw.githubusercontent.com/lovehifi/build-lms-sq-raudio/main/scr003.jpeg) 
 
 >
 >
 10. **LMS modern-skin for LMS-rAudio**
-   ```bash
-   wget -O - https://raw.githubusercontent.com/lovehifi/lms-modern-skin/main/install.sh | sh
->
+   > wget -O - https://raw.githubusercontent.com/lovehifi/lms-modern-skin/main/install.sh | sh
 
 >  
 >
